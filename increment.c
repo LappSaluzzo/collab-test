@@ -6,7 +6,7 @@ int main(void)
 {
     int d;
     scanf("%d", &d);
-    printf("%d\n", d++);
+    printf("%d\n", ++d);
 
     return 0;
 }
