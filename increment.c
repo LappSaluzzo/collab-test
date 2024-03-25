@@ -5,6 +5,8 @@
 int main(void)
 {
     int d;
+    
+    printf("Enter an integer: ");
     scanf("%d", &d);
     printf("%d\n", ++d);
 
